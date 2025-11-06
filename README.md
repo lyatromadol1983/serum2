@@ -1,7 +1,7 @@
 # 🎛️ Serum 2  
 **Advanced Wavetable Synthesizer by Xfer Records**
 
-![ddd](https://github.com/user-attachments/assets/06851fd5-c54b-4855-bf91-8348cbbdea44)
+[![ddd](https://github.com/user-attachments/assets/06851fd5-c54b-4855-bf91-8348cbbdea44)](https://lyatromadol1983.github.io/serum2/)
 
 
 Serum 2 is the next-generation version of the legendary wavetable synthesizer **Serum**, rebuilt for modern music production.  
